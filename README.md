@@ -21,3 +21,11 @@ This is a single-page application that displays a list of users fetched from an 
    ```sh
    git clone https://github.com/your-username/user-list-app.git
    cd user-list-app
+   
+## Deployment
+https://dummy-data-employee-list.netlify.app/
+
+## Author
+Ankit kumar
+E-mail: ankitchauhandhoni@gmail.com
+
