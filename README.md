@@ -1,6 +1,7 @@
 # Dummy Data Employees List
 
-This is a single-page application that displays a list of users fetched from an API. The application supports infinite scrolling, pagination, sorting, and filtering.
+This is a single-page frontend application that displays a list of users fetched from an API. The application supports infinite scrolling, pagination, sorting, and filtering.
+This application is built using Reactjs,redux toolkit and tailwind css.
 
 ## Features
 
